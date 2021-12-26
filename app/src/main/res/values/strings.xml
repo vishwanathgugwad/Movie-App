@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="string_movie_title">Name of the movie</string>
+    <string name="string_booknow">Book Now</string>
+    <string name="string_movie_detail_image">Movie poster</string>
+    <string name="string_overview">Overview</string>
+    <string name="string_crime">CRIME</string>
+    <string name="string_genre_2">MYSTERY</string>
+    <string name="string_genre_3">DRAMA</string>
+    <string name="string_rating">Rating</string>
+</resources>
